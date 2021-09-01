@@ -1,0 +1,13 @@
+body {
+  background-color: #e5e5e5;
+  font-family: 'Montserrat', sans-serif;
+}
+.about-me-profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+}
+.main-section {
+  display: flex;
+  flex-direction: row-reverse;
+}
